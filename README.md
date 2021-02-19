@@ -11,9 +11,6 @@ Tanto para usuarios Linux como Termux los requisitos son los mismos: disponer de
     Mantener las herramientas y sistema actualizado.
     Tener pre-instalado Git.
 # INSTALACION
- <p align="center">
-  <img src="https://i.postimg.cc/LsZvDyFH/install.png" alt="PANEL INSTALACIÓN">
-</p>
 
  git clone https://github.com/ByDog3r/GvngSearch
  
@@ -29,3 +26,6 @@ bash install.sh
 
 bash Tgvngs.sh
 
+ <p align="center">
+  <img src="https://i.postimg.cc/brRcvnnM/Menu.png" alt="PANEL INSTALACIÓN">
+</p>
