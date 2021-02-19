@@ -8,7 +8,7 @@
 
 Tanto para usuarios Linux como Termux los requisitos son los mismos: disponer de las herramientas en el sistema necesarias.
 
-    Mantener las herramientas y sistema actualizadxs.
+    Mantener las herramientas y sistema actualizado.
     Tener pre-instalado Git.
 # INSTALACION
  <p align="center">
